@@ -26,7 +26,7 @@ Let’s say the customer or user wants to see a movie that has a romance and com
 
 DataPoint is a type of struct created that has two variables of information within it. A string called “label” and a double called “priority.” Due to the way that DataPoint was constructed, you cannot create a Set or a Map of Datapoints (Map <DataPoint>, ...). DataPoint was the creation of the CS106B instructors prior to my project.
 
-This code implementation was made to not be case sensitive, and using different abstrat data structures such as priority queue heaps, maps, and vectors.
+This code implementation was made to not be case sensitive, and using different abstract data structures such as priority queue heaps, maps, and vectors.
 
 ---
 
